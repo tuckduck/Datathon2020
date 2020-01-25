@@ -4,7 +4,7 @@ Model to predict wildfires severity class - tbr1, nt13, zdm3
 
 Steps to reproduce result ---
 
-Python Modules used - Sklearn, Numpy
+Python3 Modules used - Sklearn, Numpy
 
 1. Clone Repo
 
